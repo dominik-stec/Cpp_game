@@ -205,7 +205,7 @@ Project URL:
 [issues-shield]: https://img.shields.io/github/issues/dominik-stec/Cpp_game_PJA.svg?style=for-the-badge
 [issues-url]: https://github.com/dominik-stec/Cpp_game_PJA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Cpp_game_PJA/blob/main/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Cpp_game_PJA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
