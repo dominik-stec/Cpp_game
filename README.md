@@ -122,17 +122,17 @@ SDL2 library is need. <br/>
 
 Turn car on the left or rigth using keyboard arrow:
 
-<img src="images/1.jpg" width="300"/>
+<img src="images/1.png" width="300"/>
 <br>
 
 You can change car speed using up and down keyboard arrows:
 
-<img src="images/2.jpg" width="300"/>
+<img src="images/2.png" width="300"/>
 <br />
 
 If you hit another car the game is over:
 
-<img src="images/3.jpg" width="300"/>
+<img src="images/3.png" width="300"/>
 <br />
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
