@@ -101,7 +101,7 @@ SDL2 library is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Cpp_game_PJA.git
+   git clone https://github.com/dominik-stec/Cpp_game.git
    ```
 2. Install dependecies
    ```sh
