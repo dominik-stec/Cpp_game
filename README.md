@@ -169,13 +169,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Cpp_game_PJA.git`
+`https://github.com/dominik-stec/Cpp_game.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
